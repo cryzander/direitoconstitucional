@@ -6,13 +6,13 @@
 
         José Joaquim Gomes
                 Constituição ideal (4 característica)
-                        Deve ser escrita (nem todas são escritas
+                        Deve ser ESCRITA (nem todas são escritas
                                 Maior segurança
-                        Deve conter um sistema de direitos fundamentais individuais (liberdades negativas)
+                        Deve conter um sistema de DIREITO FUNDAMENTAIS INDIVIDUAIS (liberdades negativas)
                                 Liberdade negativas – proíbe o estado de intervir na vida indivíduo 
                                 (limita o poder do estado)
-                        Tem que consagrar (adotar) um sistema democrático
-                        Deve reconhecer o principio da separação de poderes (estruturante)
+                        Tem que consagrar (adotar) um SISTEMA DEMOCRÁTICO
+                        Deve reconhecer o principio da SEPARAÇÃO DOS PODERES (estruturante)
 
         Concepções ou sentidos de constituições
                 Sentindo Sociológico
@@ -23,9 +23,10 @@
                                 A constituição escrita deve tomar como base esses fatores. Caso contrário será
                                  apenas uma folha de papel.
                         É um fato social
-                        Constituição real (efetiva) x Constituição escrita (folha de papel)
-                                Em conflito a que prevalece é a constituição real
-                                O ideal é que haja concordância
+			Definições:
+                                Constituição real (efetiva) x Constituição escrita (folha de papel)
+                                      Em conflito a que prevalece é a constituição real
+                                      O ideal é que haja concordância
 
                 Sentido Jurídico
                         Autor Professor Hans Kelseng (escreveu Teoria Pura do Direito)
@@ -37,33 +38,34 @@
                                 Baixo: Decretos, portarias e outras
                                 As normas inferiores encontra o seu fundamento de validade na camada acima
                                 A CF encontra sua norma de validade em que?
-                                        Setindo lógico juridico – É a norma que esta pressuposta. Norma 
+                                        Sentindo lógico juridico – É a norma que esta pressuposta. Norma 
                                          hipotética fundamental. Ela não existe no mundo real, ela é transcedental.
                                                 Fala para seguir a constituição positivada (documento solene)
-                                        Setindo juridico-positivo – A normal está posta, escrita, positivada
+                                                Transcendental - é algo que excede o limite normais, que transcende a natureza física.
+                                        Setindo juridico-positivo – A norma está posta, escrita, positivada
                                          (constituição escrita). Norma positiva suprema.
                                                 Essa é a própria constituição.
                                                 Constituição positivada
-                                                Ela tem validade na normal hipotética fundamental.
+                                                Ela tem validade na norma hipotética fundamental.
 
-        Sentido Político
-                Autor Professor Carl Schmitt
-                É uma decisão política fundamental manifestada pela vontade do titular do poder 
-                 constituinte (povo).
-                         Que é a constituição
-                Teoria voluntárista, decisionista.
-                Definição
-                        Leis constituicionais
-                                Não são tão importantes assim, não tratam de matérias (ele vai dar esse conceito
-                                 de maneira mais detalhada)
-                                Formalmente, fazem parte do texto constituicional, mas não tem tanto 
-                                 relevancia política assim.
-                        Constituição
-                                Matérias de grande relevância política, precisam estar na constituição, ex:
-                                        Sistema de governo
-                                        Direitos e garantias fundamentais
+                Sentido Político
+                      Autor Professor Carl Schmitt
+                      É uma decisão política fundamental manifestada pela vontade do titular do poder 
+                       constituinte (povo).
+                               Que é a constituição
+                      Teoria voluntárista, decisionista.
+                      Definição
+                               Leis constituicionais
+                                        Não são tão importantes assim, não tratam de matérias (ele vai dar esse conceito
+                                         de maneira mais detalhada)
+                                        Formalmente, fazem parte do texto constituicional, mas não tem tanto 
+                                         relevancia política assim.
+                               Constituição
+                                        Matérias de grande relevância política, precisam estar na constituição, ex:
+                                               Sistema de governo
+                                               Direitos e garantias fundamentais
 
-        Sentido Cultural
-                Autor Professor Meireless Teixeira (brasileiro)
-                        Direito só pode ser entendido como um objeto cultural.
-		É a junção dos sentidos listados acima.
+                Sentido Cultural
+                      Autor Professor Meireless Teixeira (brasileiro)
+                             Direito só pode ser entendido como um objeto cultural.
+		      É a junção dos sentidos listados acima.
